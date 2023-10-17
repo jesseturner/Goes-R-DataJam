@@ -1,0 +1,9 @@
+*.nc
+*.txt
+*.png
+*.jpg
+*.f000
+*.idx
+*.gif
+*.grb2
+*.ipynb_checkpoints*
